@@ -1,0 +1,12 @@
+button {
+    width: 300px;
+    height: 150px;
+    font-size: 100px;
+}
+
+input {
+    position: relative;
+    height: 150px;
+    width: 1200px;
+    font-size: 100px;
+}
